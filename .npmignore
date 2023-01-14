@@ -1,0 +1,13 @@
+#Project
+src/
+
+# OSX
+.DS_Store
+
+# VSCode
+.vscode
+
+# NodeJS
+node_modules/
+npm-debug.log
+yarn-error.log
