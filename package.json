@@ -5,7 +5,6 @@
   "main": "lib/index",
   "module": "lib/index",
   "types": "lib/index.d.ts",
-  "react-native": "src/index",
   "source": "src/index",
   "files": [
     "lib"
