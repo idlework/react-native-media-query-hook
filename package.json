@@ -49,6 +49,7 @@
     "react": "^18.1.0",
     "react-native": "^0.70.6",
     "release-it": "^15.0.0",
+    "ts-jest": "^29.0.5",
     "typescript": "^4.9.4"
   },
   "peerDependencies": {
@@ -109,8 +110,5 @@
     "singleQuote": true,
     "trailingComma": "all",
     "quoteProps": "consistent"
-  },
-  "dependencies": {
-    "ts-jest": "^29.0.5"
   }
 }
